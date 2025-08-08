@@ -9,7 +9,7 @@ Kaggle Flight Rank 2025 · Ensemble Learning · Recommender Systems · Ranking M
 
 ##  Project Overview
 
-FlightRankPredictor is a high-performance **machine learning pipeline** built for the [Flight Rank 2025 Kaggle competition](https://www.kaggle.com/competitions/flightrank-2025). It ranks flight options for users based on structured data and historical preferences, simulating a real-world travel recommendation engine.
+FlightRankPredictor is a high-performance **machine learning pipeline** built for the [Flight Rank 2025 Kaggle competition](https://www.kaggle.com/competitions/aeroclub-recsys-2025). It ranks flight options for users based on structured data and historical preferences, simulating a real-world travel recommendation engine.
 
 The system integrates:
 
